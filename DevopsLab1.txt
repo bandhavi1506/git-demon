@@ -1,2 +1,7 @@
 Hello GitHub
+<<<<<<< HEAD
 we r the last batch 
+=======
+This is ISE A
+>>>>>>> feature1
+we r last branch
